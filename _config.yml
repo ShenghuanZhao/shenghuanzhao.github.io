@@ -25,7 +25,6 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Dr. Shenghuan ZHAO"
-  pronouns         : # example: "she/her"  
   bio              : "Dr. Zhao is an architectural engineering researcher and LEED AP BD+C professional, specializing in sustainable building technologies and digital architectural systems.
 His research integrates Internet of Things, extended reality, and AI-enhanced design tools to advance intelligent, climate-responsive, and low-impact built environments."
   uri              : # URL
@@ -38,8 +37,6 @@ His research integrates Internet of Things, extended reality, and AI-enhanced de
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3109-6087"
-  semantic         : # URL
-  ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
