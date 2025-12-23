@@ -17,7 +17,7 @@ By bridging architectural engineering, data-driven methodologies, and human–en
 
 ![Research illustration](/images/researchstatement-test.jpg)
 
-<img src="/assets/images/your-image-name.jpg" width="500" />
+<img src="/assets/images/researchstatement-test.jpg" width="500" />
 
 
 
