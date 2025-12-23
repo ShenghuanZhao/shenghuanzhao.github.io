@@ -28,7 +28,6 @@ Current research interests include:
   width="550"
 />
 <br>
-<br>
 
 
 
