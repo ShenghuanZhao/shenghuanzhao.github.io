@@ -13,7 +13,7 @@ By bridging architectural engineering, data-driven methodologies, and human–en
 
 Current research interests include:
 - Climate-responsive architectural design
-- AI-enhanced design workflows （mainly focus on rendering)
+- AI-enhanced design workflows 
 - IoT-enabled building performance analysis
 - XR-IoT integration for intelligent built environment
 
@@ -23,7 +23,7 @@ Current research interests include:
 <img 
   src="/images/researchstatement-test.jpg" 
   alt="Research illustration"
-  width="500"
+  width="550"
 />
 <br>
 <br>
