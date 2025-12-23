@@ -13,6 +13,7 @@ By bridging architectural engineering, data-driven methodologies, and human–en
 
 
 
+![Research illustration](/images/researchstatement-test.jpg)
 
 
 
