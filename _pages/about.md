@@ -21,7 +21,7 @@ Current research interests include:
 <br>
 
 <img 
-  src="/assets/images/researchstatement-test.jpg" 
+  src="/images/researchstatement-test.jpg" 
   alt="Research illustration"
   width="500"
 />
