@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Research Homepage"
+title                    : "Sustainable & Intelligent Built Environment"
 title_separator          : "-"
 name                     : &name "Shenghuan Zhao"
 description              : &description "Researcher in Architectural Engineering"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Dr. Shenghuan ZHAO"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Dr. Zhao is an architectural engineering researcher and LEED AP BD+C professional, specializing in sustainable building technologies and digital architectural systems.
+His research integrates Internet of Things, extended reality, and AI-enhanced design tools to advance intelligent, climate-responsive, and low-impact built environments."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
