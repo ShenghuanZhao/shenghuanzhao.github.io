@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Architecture, Built Environment and Construction Engineering, Politecnico di Milano, 2020
+* M.S. in Sustainable Architecture, Politecnico di Milano, 2016
+* B.Eng. in Architecture, Zhejiang University of Science & Technology, 2009
 
 Work experience
 ======
