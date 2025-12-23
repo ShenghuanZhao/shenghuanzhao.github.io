@@ -11,15 +11,19 @@ My research focuses on advancing sustainability and intelligence in the built en
 
 By bridging architectural engineering, data-driven methodologies, and human–environment interactions, my work aims to develop low-impact, future-oriented design strategies for resilient and intelligent buildings.
 
+Current research interests include:
+- Climate-responsive architectural design
+- AI-enhanced design workflows （mainly focus on rendering)
+- IoT-enabled building performance analysis
+- XR-IoT integration for intelligent built environment
 
+<br>
+<br>
 
+<img src="/assets/images/researchstatement-test.jpg" width="450" alt="Research illustration" />
 
-
-![Research illustration](/images/researchstatement-test.jpg)
-
-<img src="/assets/images/researchstatement-test.jpg" width="500" />
-
-
+<br>
+<br>
 
 
 
